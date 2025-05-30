@@ -1,1 +1,1 @@
-$CRYFI Maximum Increase after First Alert 4X , $ELONM Maximum Increase after First Alert 8X , $MASK Maximum Increase after First Alert 21X , $SBB Maximum Increase after First Alert 14X , $NAKI Maximum Increase after First Alert 2X , $ANTS Maximum Increase after First Alert 4X
+$ELONM Maximum Increase after First Alert 8X , $NAKI Maximum Increase after First Alert 2X , $SBB Maximum Increase after First Alert 14X , $ANTS Maximum Increase after First Alert 4X , $MASK Maximum Increase after First Alert 21X , $CRYFI Maximum Increase after First Alert 4X
