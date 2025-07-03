@@ -1,1 +1,1 @@
-$Company Maximum Increase after First Alert 26X , $commodity Maximum Increase after First Alert 6X , $conviction Maximum Increase after First Alert 5X , $invest Maximum Increase after First Alert 57X , $PEPESH Maximum Increase after First Alert 9X
+$Company Maximum Increase after First Alert 28X , $PEPESH Maximum Increase after First Alert 9X , $conviction Maximum Increase after First Alert 5X , $commodity Maximum Increase after First Alert 5X , $invest Maximum Increase after First Alert 62X
