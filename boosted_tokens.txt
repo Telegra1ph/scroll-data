@@ -1,1 +1,1 @@
-$conviction Maximum Increase after First Alert 2X , $invest Maximum Increase after First Alert 59X , $STONKS Maximum Increase after First Alert 4X , $Company Maximum Increase after First Alert 33X , $commodity Maximum Increase after First Alert 2X
+$Company Maximum Increase after First Alert 28X , $STONKS Maximum Increase after First Alert 5X , $commodity Maximum Increase after First Alert 2X , $invest Maximum Increase after First Alert 55X , $conviction Maximum Increase after First Alert 2X
